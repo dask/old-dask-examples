@@ -1,3 +1,3 @@
-# Dask notebooks
+# Dask examples
 
-Collection of dask example notebooks
+Collection of dask examples
