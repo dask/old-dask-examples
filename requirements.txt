@@ -1,0 +1,8 @@
+git+https://github.com/blaze/dask.git#egg=dask[complete]
+git+https://github.com/blaze/castra.git#egg=castra
+numpy
+toolz
+dill
+pandas
+partd
+blaze
