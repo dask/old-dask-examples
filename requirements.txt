@@ -6,3 +6,4 @@ dill
 pandas
 partd
 blaze
+graphviz
