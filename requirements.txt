@@ -8,3 +8,5 @@ pandas
 partd
 blaze
 graphviz
+scikit-image
+bokeh
