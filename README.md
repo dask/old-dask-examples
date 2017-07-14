@@ -1,5 +1,7 @@
 # Dask examples
 
+**This project is no longer maintained.**  Instead see [examples documentation](http://dask.pydata.org/en/latest/examples-tutorials.html) instead.
+
 Collection of dask examples
 
 ## Binder
